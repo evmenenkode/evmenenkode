@@ -6,9 +6,9 @@ I work at the intersection of analytics, business intelligence, and data enginee
 
 My experience spans SQL, Python, cloud data warehousing, ETL/ELT, dimensional modeling, orchestration, data quality, and modern analytics engineering.
 
-🔗 Explore my portfolio: [denisevmenenko.carrd.co](YOUR_NEW_PORTFOLIO_URL)
+🔗 Explore my portfolio: [denisevmenenko.carrd.co](https://denisevmenenko.carrd.co/?utm_source=github&utm_medium=profile)
 
-💼 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/denis-evmenenko/)
 
 ## Tech Stack
 
@@ -26,11 +26,11 @@ Tableau • Power BI • Looker Studio
 
 ## Featured Projects
 
-🚀 **[Project Name]**  
-Short one-sentence description of the architecture and business problem.
+**[SaaS Data Observability Platform]**(https://github.com/evmenenkode/saas-data-observability-platfrom)  
+Production-inspired Analytics Engineering Platform
 
-🏗️ **[Project Name]**  
-Short one-sentence description of the architecture and business problem.
+**[Insurance Fraud Detection Platform]**(https://github.com/evmenenkode/insurance-fraud-detection-platform)  
+End-to-end Lakehouse platform powered by Databricks and AWS.
 
-⚡ **[Project Name]**  
-Short one-sentence description of the architecture and business problem.
+**[Kafka Delivery Analytics Platform]**(https://github.com/evmenenkode/kafka-delivery-project)  
+Streaming analytics platform with real-time event processing.
