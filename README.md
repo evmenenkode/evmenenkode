@@ -1,16 +1,36 @@
-<h1 align="center">Hi 👋, I'm Denis Evmenenko</h1>
-<h3 align="center">A passionate Data Analyst from Toronto</h3>
+# Hi 👋, I'm Denis Evmenenko
 
-- 👨‍💻 All of my projects are available at github or my [https://denisevmenenko.carrd.co/](https://denisevmenenko.carrd.co/)
+### Data • Analytics • Engineering
 
-- 📫 How to reach me **evmenenko.de@gmail.com**
+I work at the intersection of analytics, business intelligence, and data engineering, building reliable data pipelines, analytics-ready data models, and cloud data solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-evmenenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-evmenenko/" height="30" width="40" /></a>
-</p>
+My experience spans SQL, Python, cloud data warehousing, ETL/ELT, dimensional modeling, orchestration, data quality, and modern analytics engineering.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+🔗 Explore my portfolio: [denisevmenenko.carrd.co](YOUR_NEW_PORTFOLIO_URL)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evmenenkode&show_icons=true&locale=en&layout=compact" alt="evmenenkode" /></p>
+💼 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+
+## Tech Stack
+
+**Languages & Data**  
+SQL • Python
+
+**Data Engineering & Analytics Engineering**  
+dbt • Dagster • ETL/ELT • Data Modeling • Data Quality
+
+**Cloud & Warehousing**  
+Snowflake • BigQuery • Google Cloud • AWS • Databricks
+
+**BI & Analytics**  
+Tableau • Power BI • Looker Studio
+
+## Featured Projects
+
+🚀 **[Project Name]**  
+Short one-sentence description of the architecture and business problem.
+
+🏗️ **[Project Name]**  
+Short one-sentence description of the architecture and business problem.
+
+⚡ **[Project Name]**  
+Short one-sentence description of the architecture and business problem.
