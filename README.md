@@ -26,11 +26,11 @@ Tableau • Power BI • Looker Studio
 
 ## Featured Projects
 
-**SaaS Data Observability Platform**(https://github.com/evmenenkode/saas-data-observability-platfrom)  
+[**SaaS Data Observability Platform**](https://github.com/evmenenkode/saas-data-observability-platfrom)  
 Production-inspired Analytics Engineering Platform
 
-**Insurance Fraud Detection Platform**(https://github.com/evmenenkode/insurance-fraud-detection-platform)  
+[**Insurance Fraud Detection Platform**](https://github.com/evmenenkode/insurance-fraud-detection-platform)  
 End-to-end Lakehouse platform powered by Databricks and AWS.
 
-**Kafka Delivery Analytics Platform**(https://github.com/evmenenkode/kafka-delivery-project)  
+[**Kafka Delivery Analytics Platform**](https://github.com/evmenenkode/kafka-delivery-project)  
 Streaming analytics platform with real-time event processing.
